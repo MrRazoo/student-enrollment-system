@@ -1,0 +1,27 @@
+.loginPage {
+    background: url('../../public/images/imageedit_3_3612953960.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+  
+.loginForm{
+    /* background-color: rgba(1, 32, 93, 0.4); */
+    /* color: white; */    
+}
+
+.btn-cont{
+    display: flex;
+    justify-content:space-between;
+}
+.btn-cont .btn{
+    width: 90px;
+}
+.btn-cont .btn:hover{
+    background-color: rgb(20, 136, 97);
+    border-color: rgb(0, 152, 240);
+    
+}
